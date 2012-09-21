@@ -1,5 +1,4 @@
-
-c'est TEST2
+<<<<<<< HEAD
 
 c'est TEST1
 
